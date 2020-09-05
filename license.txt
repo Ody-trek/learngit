@@ -2,3 +2,5 @@
 --->this is the first blood.
 16:26
 --->just wanna check the differnce between the stage and working space.
+16:48
+--->skip the step of "git add" and go straight to step "git commit".
